@@ -28,9 +28,15 @@ ESP32, Arduino, sensores.
 # 💡 Proyectos destacados
 **Mi primera página WEB**
 
-Página web desarrollada con HTML, CSS, SASS y BOOTSTRAP. Primer proyecto.
+*Página web desarrollada con HTML, CSS, SASS y BOOTSTRAP. Primer proyecto.*
 
 [Enlace al repositorio](https://github.com/VainstubTomas/coderhouseProyectRepository)
+
+**Aplicación para la gestión de establecimientos deportivos**
+
+*Proyecto universitario. Desarrollado con: Python, Django, JavaScript y React utilizando componentes MUI.*
+
+[Enlace al repositorio](https://github.com/FerChaparro27/proyectoPg)
 
 # 🎯 Objetivos y aspiraciones
 
