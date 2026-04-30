@@ -10,7 +10,7 @@
 <p align="left">
 ⏳ Estudiante avanzado de Igenieria en Computación
 
-💻 +2 años de experiencia laboral dentro del área tecnológica
+💻 +2 años de experiencia laboral dentro del área tecnológica - actualmente Desarrollador de Software 👨‍💻
 
 📫 Contacto: **vainstubtomas@gmail.com**
 <!--Intro end-->
