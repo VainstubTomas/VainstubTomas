@@ -8,7 +8,7 @@
 <!--Intro start-->
 
 <p align="left">
-⏳ Estudiante avanzado de Igenieria en Computación
+⏳ Estudiante avanzado de Ingenieria en Computación
 
 💻 +2 años de experiencia laboral dentro del área tecnológica - actualmente Desarrollador de Software 👨‍💻
 
@@ -17,11 +17,11 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Algunas tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,py,css,html,js,ts,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,postman,eclipse,vscode,bash,arduino,astro,bootstrap,django,electron,fastapi,figma,go,mongodb,react,vite&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,py,css,html,js,ts,nodejs,mysql,sqlite,firebase,git,github,docker,bash,arduino,django,electron,fastapi,go,mongodb,react&perline=12" />
   </a>
 </p>
 <br>
